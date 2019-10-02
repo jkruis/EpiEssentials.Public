@@ -80,6 +80,8 @@ To use only one background image, set all three values to the same image.
 
 Make the new Episerver UI look a bit more like the old one.
 
+To use, install the package in your project.
+
 [NuGet package](https://www.nuget.org/packages/EpiEssentials.Nostalgia/)
 
 ## EpiEssentials.Orphans
