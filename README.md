@@ -76,6 +76,12 @@ To use only one background image, set all three values to the same image.
 
 [NuGet package](https://www.nuget.org/packages/EpiEssentials.LoginImages/)
 
+## EpiEssentials.Nostalgia
+
+Make the new Episerver UI look a bit more like the old one.
+
+[NuGet package](https://www.nuget.org/packages/EpiEssentials.Nostalgia/)
+
 ## EpiEssentials.Orphans
 
 Find and remove orphaned models and properties.
